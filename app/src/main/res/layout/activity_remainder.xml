@@ -246,7 +246,7 @@
         android:fontFamily="@font/kameron_bold"
         android:text="View Previous"
         android:textColor="@color/black"
-        android:textSize="20dp"
+        android:textSize="20sp"
         app:layout_constraintBottom_toTopOf="@+id/NavBar"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.0"
