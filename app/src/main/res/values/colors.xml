@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="line">#520707</color>
+    <color name="glowup">#55125E</color>
+    <color name="pageBack">#E7BBD8</color>
+    <color name="buttonChoose">#C27E7E</color>
+    <color name="methodBox">#59B884BF</color>
+    <color name="remainderBox">#99E2A0C0</color>
+    <color name="add">#80000000</color>
+    <color name="button">#AFC3E0</color>
+    <color name="buttonActive">#E07DAD</color>
+    <color name="special">#C81010</color>
+</resources>

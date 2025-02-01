@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">GlowUp</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="next">Next</string>
+    <string name="add">Add</string>
+    <string name="skip">Skip</string>
+    <string name="oilySkin">Oily Skin</string>
+    <string name="drySkin">Dry Skin</string>
+    <string name="senSkin">Sensitive Skin</string>
+    <string name="logo">Logo</string>
+</resources>
